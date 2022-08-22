@@ -1,0 +1,32 @@
+{
+  "Admin": [
+    {
+      "username": "admin",
+      "passowrd": "P@a55w0rd"
+    }
+  ],
+  "Staff": [
+    {
+      "username": "staff",
+      "passowrd": "P@55w0rd"
+    },
+    {
+      "username": "EMP0001",
+      "passowrd": "P@55w0rd"
+    }
+  ],
+  "Student": [
+    {
+      "username": "bdu1012156",
+      "password": "P@55w0rd"
+    },
+    {
+      "username": "RTCH-1554/19",
+      "password": "RTCH-1554/19"
+    },
+    {
+      "username": "RTCH-1555/19",
+      "password": "RTCH-1555/19"
+    }
+  ]
+}
